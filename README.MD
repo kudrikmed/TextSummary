@@ -17,9 +17,8 @@ To deploy this bot, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-3. Obtain API keys for Whisper from OpenAI.
-4. Insert your Whisper API key in the appropriate location within the code.
-5. Run the bot.
+3. Make sure, [ffmpeg](that https://www.ffmpeg.org/download.html) is installed on your machine.
+4. Run the bot.
     ```bash
     python telegram_bot.py
     ```
@@ -34,6 +33,8 @@ To deploy this bot, follow these steps:
 ## Try bot
 - [SummarEaseBot](https://t.me/SummarEaseBot)
 
+
+![BotImage](bot_example.jpg)
 ## Contributors
 
 - [Dzmitry Kudrytski](link_to_your_profile)
