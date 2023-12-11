@@ -17,7 +17,7 @@ To deploy this bot, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-3. Make sure, [ffmpeg](that https://www.ffmpeg.org/download.html) is installed on your machine.
+3. Make sure, that [ffmpeg](https://www.ffmpeg.org/download.html) is installed on your machine.
 4. Run the bot.
     ```bash
     python telegram_bot.py
