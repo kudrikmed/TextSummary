@@ -1,6 +1,6 @@
 # Telegram Bot for Video and Article Summarization
 
-This Telegram bot is designed to provide summaries for both YouTube videos and text-based articles. It utilizes the Whisper API from OpenAI for speech-to-text conversion and the BERT model for summarization.
+This Telegram bot is designed to provide summaries for both YouTube videos and text-based articles. It utilizes the Whisper model from OpenAI for speech-to-text conversion and the BERT model for summarization.
 
 ## Features
 
@@ -37,7 +37,7 @@ To deploy this bot, follow these steps:
 ![BotImage](bot_example.jpg)
 ## Contributors
 
-- [Dzmitry Kudrytski](link_to_your_profile)
+- [Dzmitry Kudrytski](https://github.com/kudrikmed/)
 
 ## License
 
